@@ -1,2 +1,2 @@
 # odin-recipes
-odin recipe project 
+A toy HTML website for showcasing recipes in pop culture
